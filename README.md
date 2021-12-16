@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
 
-The purpose of this project is to increase Horiseon's web accessibility. By doing so, the site will gain higher ranking in search engines which generates more traffic for the business. Accessible sites also benefit individuals regardless of disability, hence, adhere to accessibility standards.
+The purpose of this project is to refactor Horiseon's, a marketing agency, website for increasing its web accessibility. By doing so, the site will gain higher ranking in search engines which generates more traffic for the business. Accessible sites benefit the public regardless of disability, and hence adhere to accessibility standards.
 
 All elements from the site have been improved for long-term sustainability without the change of site appearance and functionality. 
 
@@ -14,15 +14,15 @@ All elements from the site have been improved for long-term sustainability witho
 
 ## Deployed Link
 
-* [Horiseon](http://)
+* [Horiseon](https://mandytsang007.github.io/RefactoringForHoriseon/)
 
 
 ## Authors
 
-* **Hing Tsang** 
+* **Mandy Tsang** 
 
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/MANDYTSANG007)
+- [Link to LinkedIn](https://www.linkedin.com/in/mandy-tsang-896b2682)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
