@@ -15,16 +15,12 @@ All elements from the site have been improved for long-term sustainability witho
 ## Deployed Link
 
 * [Horiseon](https://mandytsang007.github.io/RefactoringForHoriseon/)
-
+- [Link to Github](https://github.com/MANDYTSANG007)
+- [Link to LinkedIn](https://www.linkedin.com/in/mandy-tsang-896b2682)
 
 ## Authors
 
 * **Mandy Tsang** 
-
-- [Link to Github](https://github.com/MANDYTSANG007)
-- [Link to LinkedIn](https://www.linkedin.com/in/mandy-tsang-896b2682)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -32,6 +28,3 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
