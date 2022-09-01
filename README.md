@@ -19,7 +19,6 @@ The following image shows the web application's appearance:
 
 * [Horiseon](https://mandytsang007.github.io/RefactoringForHoriseon/)
 * [Link to Github](https://github.com/MANDYTSANG007)
-* [Link to LinkedIn](https://www.linkedin.com/in/mandy-tsang-896b2682)
 
 ## Authors
 
